@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wahba+Kamaluddin+Nurdin)](https://git.io/typing-svg)
 <!--
 **wahbakamaluddin/wahbakamaluddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
